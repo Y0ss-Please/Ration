@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="svg-inline--fa fa-car-side fa-w-20" width="802.29" height="449.44" aria-hidden="true" data-icon="car-side" data-prefix="fas" focusable="false" role="img" version="1.1" viewBox="0 0 802.29 449.44" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path stroke="#798035" fill="#798035" d="m672.05 176.88-77.776-16.881-108.78-135.98c-12.149-15.18-30.537-24.018-49.98-24.02h-261.91c-157.98 0-49.7 15.93-59.42 40.23l-47.91 122.03c-42.286 7.4992-48 31.95-48 61.74l0.31547 83.065s-11.45-1.8091-17.555 5.015c-2.5142 14.367 0.35917 23.92 0.35917 23.92 0.13272 8.839 7.16 16 16 16h64.881c0 53.02 42.98 96 96 96s96-42.98 96-96l271.54 1.4367c0 53.02 42.98 96 96 96s96-42.98 96-96h48c8.84 0 16-7.16 16-16 0 0 1.0775-9.9122 0-21.765-5.0283-5.3875-12.571-3.5917-12.571-3.5917l6.8241-43.818v-12.621c0-53.02-72.201-67.514-124.01-78.76zm-493.78 223.12c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48zm72-240h-115.07l38.4-96h76.67zm48 0v-96h137.24l76.8 96zm343.54 241.44c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48z"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="svg-inline--fa fa-mobile fa-w-10" width="320.51" height="512" aria-hidden="true" data-icon="mobile" data-prefix="fas" focusable="false" role="img" version="1.1" viewBox="0 0 320.51 512" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path stroke="#798035" fill="#798035" d="m272 0-101.84 0.50794-22.218 86.346 20.721 130.86-13.384 100.25 7.9119-91.561-20.796-139.53 14.559-86.866h-59.429l-1.8173 111.22 59.571 206.74-60.294-162.53-21.841-155.43h-25.143c-26.5 0-48 21.5-48 48v374.6l62.034-14.446 93.243-90.199-85.69 95.503-69.587 16.762v33.778c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48v-168.89l-53.841 22.857-110.88-0.0108 108.55-6.7158 56.683-30.353-0.50794-232.89c-0.0578-26.5-21.5-48-48-48zm-112 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z"/>
+</svg>

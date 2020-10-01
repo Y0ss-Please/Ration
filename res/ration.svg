@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.866367mm"
+   height="11.915676mm"
+   version="1.1"
+   viewBox="0 0 42.866367 11.915676"
+   id="svg24"
+   sodipodi:docname="ration.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2050"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="30.230108"
+     inkscape:cx="60.18346"
+     inkscape:cy="38.958945"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-2.6372251,-3.3734986)"
+     id="g22">
+    <g
+       transform="matrix(0.89684,0,0,1.115,-5.2118,-1.3363)"
+       stroke-width="0.28103"
+       aria-label="RATION"
+       id="g16">
+      <path
+         stroke="#d6ebdd"
+         fill="#d6ebdd"
+         d="m 17.381,5.7358 -1.8436,1.8436 1.7129,3.0069 1.32e-4,0.705196 35.627433,1.17e-4 v 0.835981 l -36.916545,2e-5 1.7e-5,-1.5116 -1.4912,-2.4184 h -3.2487 l -0.05588,3.93 h -1.1694 l 3.14e-5,-5.1665 h 4.4177996 l 1.2253,-1.2253 h -4.4268 l 0.009,2.4618 -1.2252996,-1.2365 -7e-7,-2.5066503 h 7.3855003 z"
+         id="path4"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+      <path
+         stroke="#d6ebdd"
+         fill="#d6ebdd"
+         d="m 24.148,10.659 -2.3269,-4.6314 -1.485,3.1091 2.062965,-5e-5 0.41787,0.901956 -2.863175,2.4e-5 -0.3987,0.62036 h -1.4211 l 3.0801,-6.2050503 h 1.2253 l 3.0801,6.2050503 z"
+         id="path6"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         stroke="#d6ebdd"
+         fill="#d6ebdd"
+         d="m 28.091965,5.6759 h -3.0801 V 4.3945497 h 7.3855 V 5.6759 h -3.0801 v 4.982994 h -1.2253 z"
+         id="path8"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         stroke="#d6ebdd"
+         fill="#d6ebdd"
+         d="M 33.436965,10.659094 V 4.3649497 h 1.2365 v 6.2941443 z"
+         id="path10"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         stroke="#d6ebdd"
+         fill="#d6ebdd"
+         d="m 42.080965,4.3645497 1.3377,1.3825503 v 4.911594 h -6.0478 L 36.033165,9.2319 V 5.1535 l 0.9635,-0.7889403 z M 42.182135,9.333 V 6.2529 l -0.60702,-0.60702 h -3.7123 l -0.6043,0.70605 v 2.374 l 0.61827,0.60702 z"
+         id="path12"
+         sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         stroke="#d6ebdd"
+         fill="#d6ebdd"
+         d="m 52.152965,4.3645497 v 6.2941443 h -1.2365 L 45.992865,6.0731 v 4.585594 h -1.2253 V 4.3645497 h 1.2253 L 50.916465,8.9059 V 4.3645497 Z"
+         id="path14"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+    <circle
+       stroke="#d6ebdd"
+       fill="none"
+       cx="4.3034"
+       cy="13.623"
+       r="1.2693"
+       stroke-width="0.79375"
+       id="circle18" />
+    <path
+       stroke="#d6ebdd"
+       fill="none"
+       d="m 45.106718,11.618 a 1.2693,1.2693 0 0 1 -1.2693,1.2693 1.2693,1.2693 0 0 1 -1.2693,-1.2693 1.2693,1.2693 0 0 1 1.2693,-1.2693 1.2693,1.2693 0 0 1 1.2693,1.2693 z"
+       stroke-width="0.79375"
+       id="path20" />
+  </g>
+</svg>
